@@ -24,5 +24,8 @@ dev_dependencies:
     sdk: flutter
   pedantic: ^1.10.0
 
+dependency_overrides:
+  meta: 1.7.0
+
 flutter:
   uses-material-design: true
